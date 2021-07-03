@@ -1,0 +1,15 @@
+--------------------------------------------------------------------------------
+                                        Lunch Menu
+--------------------------------------------------------------------------------
+            Item                  |        Cost       |       Calorie Count    
+--------------------------------------------------------------------------------
+1.  South Indian Thali            |       Rs. 150     |           157
+2.  North Indian Thali            |       Rs. 160     |           212
+3.  Rice                          |       Rs. 30      |           118
+4.  Chole Bhature                 |       Rs. 150     |           342
+5.  Aloo Paratha                  |       Rs. 120     |           323
+6.  Paneer Paratha                |       Rs. 150     |           346
+7.  Roti with Curry               |       Rs. 100     |           154
+8.  Pulao                         |       Rs. 50      |           324
+9.  Chicken Biriyani              |       Rs. 180     |           372
+10. Egg Biriyani                  |       Rs. 150     |           289

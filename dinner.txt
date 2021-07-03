@@ -1,0 +1,15 @@
+--------------------------------------------------------------------
+                            Dinner Menu
+--------------------------------------------------------------------
+Item                    |        Cost       |       Calorie Count    
+--------------------------------------------------------------------
+1.  Naan                |       Rs. 45      |           317
+2.  Fried Rice          |       Rs. 100     |           163
+3.  Kadhai Paneer       |       Rs. 160     |           248
+4.  Butter Chicken      |       Rs. 250     |           500
+5.  Roti                |       Rs. 25      |           100
+6.  Veg Biriyani        |       Rs. 150     |           257
+7.  Chicken Biriyani    |       Rs. 300     |           290
+8.  Egg Biriyani        |       Rs. 230     |           250
+9.  Mushroom Masala     |       Rs. 170     |           78
+10. Dal Makhani         |       Rs. 150     |           278
