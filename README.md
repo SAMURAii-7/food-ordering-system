@@ -1,5 +1,5 @@
 # food-ordering-system
-This is a simple C++ program to order food.
+This is a console based program to order food.
 The program will display menus according to the time of the day by reading from a file.
 User can then place their order and choose their payment method.
 # Areas available for food delivery
