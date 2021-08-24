@@ -1,4 +1,4 @@
-# food-ordering-system
+# Food-Ordering-System
 This is a console based program to order food.
 The program will display menus according to the time of the day by reading from a file.
 User can then place their order and choose their payment method.
